@@ -26,11 +26,11 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: rgb(125, 190, 144);
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 3.0em;
   margin-bottom: 0;
 }
 
